@@ -3,6 +3,12 @@
 
 #include <iostream>
 
+class Calculator
+{
+private:
+    int x;
+};
+
 int main()
 {
     std::cout << "Hello World!\n";
