@@ -7,7 +7,8 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "Added an line of information\n";
-    std::cout << "Added anonther line in the command line repo\n";
+    std::cout << "Added another line in the command line repo\n";
+    std::cout << "making changes we want to stash\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
